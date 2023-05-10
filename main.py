@@ -5,6 +5,7 @@ import json
 
 import os
 
+#MAKE SURE TO SET PATH OF THE FFMPEG MODULE.
 ffmpeg_path = "C:/Users/USER/Downloads/ffmpeg-2023-04-26-git-e3143703e9-essentials_build/bin/"
 skvideo.setFFmpegPath(ffmpeg_path)
 
